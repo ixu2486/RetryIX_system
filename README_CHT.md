@@ -1,4 +1,4 @@
-#RetryIX
+RetryIX_system
 語義場驅動的硬體控制：以 RetryIX 搭配 AMD RX5700 為例的案例研究
 📌 專案簡介
 本項目展示一種嶄新的思想實驗與技術範式：語義場誘導（Semantic Field Induction）結合具體硬體控制能力的示範。本代碼以 AMD RX5700 顯示卡為執行平台，並透過 Python 實作，直接驅動 OpenCL 核心進行運算流程控制。
